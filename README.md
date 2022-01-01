@@ -35,4 +35,4 @@ The aluminum container of the battery pack.
 
 The two relay contactors and the fuse are placed in the front part of the container.
 
-![photo](Screenshots/Screenshot_11.png)
+![photo](Screenshots/Screenshot_11.png) 
