@@ -1,6 +1,6 @@
 # Battery Pack Design & Construction
 
-The Accumulator Container/Battery Pack consists of 288 batteries with maximum voltage and energy of 600V and 7.45kWh respectevely. The lithium-ion cells are seperated on 12 segments of batteries (12s2p). It also consists of 2 high-voltage relay contactctors and a high current fast-blow fuse.
+The Accumulator Container/Battery Pack consists of 288 batteries with maximum voltage and energy of 600V and 7.45kWh respectively. The lithium-ion cells are separated on 12 segments of batteries (12s2p). It also consists of 2 high-voltage relay contactors and a high current fast-blow fuse.
 
 The full assembly of the battery container.
 
